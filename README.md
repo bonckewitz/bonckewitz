@@ -9,7 +9,7 @@
 
 - 📫 Pode me enviar um e-mail no **bonckewitz@gmail.com**
 
-- 📄 Minhas experiências estão no linkedin [https://www.linkedin.com/in/bonckewitz/](https://www.linkedin.com/in/bonckewitz/)
+- 📄 Minhas experiências profissionais estão no linkedin [https://www.linkedin.com/in/bonckewitz/](https://www.linkedin.com/in/bonckewitz/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
