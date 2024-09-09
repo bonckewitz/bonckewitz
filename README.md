@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Meu nome é Júlio Bonckewitz e bem vindo ao meu Github</h1>
 <h3 align="center">Aspirante a Cientista de Dados e amo tecnologia</h3>
 
-- 🔭 Trabalhando em cima dos dados de salário, estudo e gênero no Brasil. **A influência do grau de instrução no salário médio do Estado de Santa Catarina.**
+- 🔭 Trabalhando em cima dos dados gerais da economia brasileira e mundial, **desenvolvendo ferramentas para análise de cenários.** 
 
 - 🌱 Estou aprendendo sobre **Python, SQL, Machine Learning e PowerBI**
 
