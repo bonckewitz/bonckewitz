@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Meu nome é Júlio Bonckewitz e bem vindo ao meu Github</h1>
-<h3 align="left">Analista de Dados da Ahgora by TOTVS</h3>
+<h3 align="left">Analista de Dados da TOTVS</h3>
 
 - 🔭 Trabalhando em cima dos dados gerais da economia brasileira e mundial, **desenvolvendo ferramentas para análise de cenários.** 
 
@@ -9,7 +9,7 @@
 
 - 📫 Pode me enviar um e-mail no **bonckewitz@gmail.com**
 
-- 📄 Minhas experiências profissionais estão no linkedin [https://www.linkedin.com/in/bonckewitz/](https://www.linkedin.com/in/bonckewitz/)
+- 📄 Minhas experiências profissionais estão no [linkedin](https://www.linkedin.com/in/bonckewitz/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
